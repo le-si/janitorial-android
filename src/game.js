@@ -59,7 +59,7 @@
 // -------
 // If you use VS Code, you can fold the sections with the command Fold All Regions.
 //
-// Recommended Code themes:
+// Recommended VS Code themes:
 // * Codel
 //
 // Sublime Text
@@ -78,7 +78,7 @@
 // }
 // and use the command SyntaxFold: Fold All.
 //
-// Recommended Sublime color schemes:
+// Recommended Sublime Text color schemes:
 // * Spring (light and bright with orange comments)
 // * cP-Code (medium-dark, sort of hazy / lower contrast theme)
 // * Blackboard (dark)
